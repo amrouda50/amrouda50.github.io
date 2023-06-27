@@ -13,6 +13,9 @@ Clash Invasion Video Overview:https://www.veed.io/view/81a06842-31cd-4af2-a98c-7
 Jenekins Video Overview:https://www.veed.io/view/ede6a15b-71c7-48de-b5cb-e4368c32205b?sharingWidget=true&panel=share
 <br/>
 Repo:https://github.com/amrouda50/Clash-Invasion
+<br/>
+Wiki Page:https://github.com/amrouda50/Clash-Invasion/wiki
+
 
 ## Labryinth(Nov 2021)
 
